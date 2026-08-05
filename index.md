@@ -2,8 +2,8 @@
 layout: default
 title: Hà Caracóis
 ---
-_O que é a poesia?\
-A poesia é uma grande voz._
+>_O que é a poesia?\
+>A poesia é uma grande voz._
 
 Nesta colecção de poemas, as\
 palavras não têm nada de que se\
