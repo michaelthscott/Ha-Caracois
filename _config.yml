@@ -1,0 +1,9 @@
+title: Hà Caracóis
+description: poesia casual feita no moment sem conhecer o idioma.
+author: Michael T. H. Scott
+theme: minima
+baseurl: /Poems
+collections:
+  Poems:
+    output: true
+
